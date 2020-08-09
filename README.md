@@ -5,7 +5,7 @@ Repository containing my portfolio of data science projects completed in iPython
 
 # Contents
 ### 1. Machine Learning
-   - Supervised Learning - Stock Price Prediction: a combination of regression models *(time series, regression machine learning, ensemble learning and deep learning)* to provide financial investors insights on a diversified portfolio of 6 companies representing 6 different industries and the S&P500 index and forecast stock prices of each company to investors make financial decisions based on the price movements
+   - [Supervised Learning - Stock Price Prediction](https://github.com/mypham14/stock-price-prediction): a combination of regression models *(time series, regression machine learning, ensemble learning and deep learning)* to provide financial investors insights on a diversified portfolio of 6 companies representing 6 different industries and the S&P500 index and forecast stock prices of each company to investors make financial decisions based on the price movements
      - Extract stock prices of all companies over 20 years from Yahoo Finance and maintain a database of stock details in MySQL Server
      - Test a combination of models including ARIMA Time Series, Regression Machine Learning models (KNN, Linear Regression, Ridge, LASSO, Support Vector Machines (SVM - linear, poly, rbf)), Ensemble Learning (Bagging, Pasting, Adaboost and Gradient Boosting) and Deep Learning models (Long Short-Term Memory (LSTM)) to predict stock prices of the companies in the portfolio
      - Web scrape real-time stock prices of all companies
