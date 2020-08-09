@@ -1,1 +1,2 @@
-# stock-prediction
+# Data Science Portfolio
+Author: My Pham
