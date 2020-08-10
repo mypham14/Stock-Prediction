@@ -1,7 +1,9 @@
 # Welcome to My Data Science Portfolio
+Repository containing my portfolio of data science projects completed in iPython Notebooks and R Markdown files for educational and hobby purposes.
+
 Author: My Pham
 
-Repository containing my portfolio of data science projects completed in iPython Notebooks and R Markdown files for educational and hobby purposes.
+Feel free to copy and refer to my repos. If you have any questions, please contact me on my [LinkedIn](https://www.linkedin.com/in/mytrapham/).
 
 # Contents
 ### 1. Machine Learning
