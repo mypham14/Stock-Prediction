@@ -5,7 +5,7 @@ Author: [My Pham](https://github.com/mypham14)
 
 Feel free to copy and refer to my repos. If you have any questions, please contact me on my [LinkedIn](https://www.linkedin.com/in/mytrapham/). 
 
-You can also visit my other portfolios: [Tableau](https://public.tableau.com/profile/my.tra.pham), [Azure ML](https://gallery.azure.ai/Home/Author?authorid=C64394424E5213619852FA330E95098630EC7C9F58B8E7FE8C2432189A92A3A7&skip=0&categories=%5B%229%22%5D&orderby=trending%20desc&tabtype=2&entityskip=0&collectionskip=0)
+Please also visit my other portfolios for visualization and model automation projects: [Tableau](https://public.tableau.com/profile/my.tra.pham), [Azure ML](https://gallery.azure.ai/Home/Author?authorid=C64394424E5213619852FA330E95098630EC7C9F58B8E7FE8C2432189A92A3A7&skip=0&categories=%5B%229%22%5D&orderby=trending%20desc&tabtype=2&entityskip=0&collectionskip=0)
 
 # Contents
 ### 1. Machine Learning
