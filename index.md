@@ -1,13 +1,13 @@
 ## Welcome to My Pham's GitHub
 
-This is my portfolio of all projects in data science and cybersecurity.
+This is my [portfolio](https://github.com/mypham14/portfolio/) of all projects in data science and cybersecurity.
 
 ### Contents
 #### Data Science
 1. Stock Price Prediction
 - Modeling: Python
-- Data Visualization: Tableau
-- Model Automation and Deployment: Azure ML
+- Data Visualization: [Tableau](https://tabsoft.co/2DxdiBV) 
+- Model Automation and Deployment: [Azure ML](https://bit.ly/3ksg24c)
 2. Heart Disease Prediction
 3. Yelp's Reviews Classification Using NLP Text Analytics
 4. Bike Rental Count Prediction
