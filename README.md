@@ -15,37 +15,36 @@ Please also visit my other portfolios for visualization and model automation pro
 _**Python**_
 - [Supervised Learning - Stock Price Prediction](https://github.com/mypham14/stock-price-prediction): a combination of regression models *(time series, regression machine learning, ensemble learning and deep learning)* to provide financial investors insights on a diversified portfolio of 6 companies representing 6 different industries and the S&P500 index and forecast stock prices of each company to investors make financial decisions based on the price movements
 - Supervised Learning - Heart Disease Prediction: a mix of classification models *(ensemble learning, classification machine learning, principal component analysis and deep learning)* to provide hospitals a filtering system that helps patients identify and prevent potential predictors of having a heart disease 
-     - Perform data cleansing and exploratory data analysis
-     - Apply a combination of models including Emsemble Learning (voting classifiers, bagging, pasting, adaboost and gradient boosting), Principal Component Analysis, Classification Machine Learning (KNN, Logistic Regression, Linear Support Vector Machine, Kernelilzed Support Vector Machine (rbf, poly, and linear), Decision Tree) and Deep Learning to predict whether a patient has a heart disease
-     - Create Tableau dashboards for data analysis and visualization 
-     - Automate the modeling process and deploy the chosen model into production in Azure ML
 - Bike Rental Prediction
 
 *Tools: pandas, numpy, matplotlib, seaborn, tensorflow, keras, beautifulsoup, requests, scikit-learn, statsmodels.tsa, mysql.connector*
 
 _**Azure ML**_
 - [Stock Price Prediction Using ARIMA Time Series](https://gallery.azure.ai/Experiment/Stock-Price-Prediction-2): part of Stock Price Prediction, see full [project](https://github.com/mypham14/stock-price-prediction) above
-- [Income Classification Using Logistic Regression](https://gallery.azure.ai/Experiment/Income-Classification-Using-Logistic-Regression): model using Adult Census Income Data to predict whether a person earns more than $50,000/year or not based on 15 attributes with logistic regression method.
+- [Income Classification Using Logistic Regression](https://gallery.azure.ai/Experiment/Income-Classification-Using-Logistic-Regression): a model using Adult Census Income Data to predict whether a person earns more than $50,000/year or not based on 15 attributes with logistic regression method.
 
 #### 2. Natural Language Processing (NLP)
 _**Python**_
-- Yelp's Reviews Classification Using NLP Text Analytics
+- [Unsupervised Learning - Yelp's Reviews Classification Using NLP Text Analytics](https://github.com/mypham14/yelp-review-nlp): an analysis of Yelp's reviews using NLP Text Analytics to classify whether a review is positive or negative, helping businesses determine areas of improvement and create strategic plans accordingly
 - Fake News Detection
+
+*Tools: pandas, numpy, matplotlib,
 
 #### 3. Data Analytics
 _**MySQL**_
 - Stock Market Analysis Using MySQL: see [Stock Price Prediction](https://github.com/mypham14/stock-price-prediction) project above
-- Google Analytics Customer Revenue Predictioin Using MySQL
+- Google Analytics Customer Revenue Predictioin Using MySQL: an analysis of Google's visitor data to help Google develope plans to increase revenue by identifying trends of visitors' usage and behavior
 
 #### 4. Data Visualization
 _**Tableau**_
 - [Stock Market Analysis Using Tableau](https://public.tableau.com/profile/my.tra.pham#!/vizhome/StockMarketAnalysisPortfolioFocused/StockMarketAnalysis): part of Stock Price Prediction, see full [project](https://github.com/mypham14/stock-price-prediction) above
 
 _**Power BI**_
-- Payment Cards Anomaly Detection Using Power BI
+- Payment Cards Anomaly Detection Using Power BI: an analysis of payment cards of a fictitious company using Power BI visualization to identify unusual transactions or suspicious activities, helping the accounts payable, accounts receivable and audit departments have appropriate internal controls in place to prevent potential fraud
 
 ### Cybersecurity
-- Fraud Detection Using ACL, MS Excel, IDEA
-- Information Technology Security Policy Proposal for Venmo
-- Risk Management Policy Proposal for 
+- Fraud Detection In Audit Using ACL, MS Excel, IDEA
+- Information Technology Security Policy Proposal For Venmo
+- Risk Management Policy Proposal For 
 - Fake News Detection: see Fake News Detection project above
+- Payment Cards Anomaly Detection Using Power BI
