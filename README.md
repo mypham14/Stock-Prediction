@@ -32,12 +32,12 @@ _**Python**_
 - Yelp's Reviews Classification Using NLP Text Analytics
 - Fake News Detection
 
-### 2. Data Analytics
+#### 3. Data Analytics
 _**MySQL**_
 - Stock Market Analysis Using MySQL: see [Stock Price Prediction](https://github.com/mypham14/stock-price-prediction) project above
 - Google Analytics Customer Revenue Predictioin Using MySQL
 
-### 3. Data Visualization
+#### 4. Data Visualization
 _**Tableau**_
 - [Stock Market Analysis Using Tableau](https://public.tableau.com/profile/my.tra.pham#!/vizhome/StockMarketAnalysisPortfolioFocused/StockMarketAnalysis): part of Stock Price Prediction, see full [project](https://github.com/mypham14/stock-price-prediction) above
 
