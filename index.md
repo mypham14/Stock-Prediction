@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## Welcome to My Pham's GitHub
 
-You can use the [editor on GitHub](https://github.com/mypham14/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is my portfolio of all projects in data science and cybersecurity.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Contents
+#### Data Science
+1. Stock Price Prediction
+- Modeling: Python
+- Data Visualization: Tableau
+- Model Automation and Deployment: Azure ML
+2. Heart Disease Prediction
+3. Yelp's Reviews Classification Using NLP Text Analytics
+4. Bike Rental Count Prediction
 
-### Markdown
+#### Data Analytics
+1. Stock Market Analysis Using MySQL
+2. Google Analytics Customer Revenue Predictioin Using MySQL
+3. Payment Cards Anomaly Detection Using Power BI
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mypham14/portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#### Cybersecurity
+1. Fraud Detection Using ACL, MS Excel, IDEA
+2. Information Technology Security Policy Proposal for Venmo
+3. Risk Management Policy Proposal for 
