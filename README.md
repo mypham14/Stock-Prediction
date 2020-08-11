@@ -1,5 +1,5 @@
 # Welcome to My Portfolio
-Repository containing my portfolio of data science and cybersecurity projects completed in iPython Notebooks, R Markdown files, Tableau, SQL files and Azure ML for learning and hobby purposes.
+Repository containing my portfolio of data science and cybersecurity projects completed in iPython Notebooks, R Markdown files, Tableau, Power BI, SQL files and Azure ML for learning and hobby purposes.
 
 Author: [My Pham](https://github.com/mypham14)
 
