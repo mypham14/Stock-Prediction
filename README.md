@@ -37,6 +37,7 @@ _**MySQL**_
 ### 3. Data Visualization
 _**Tableau**_
 - Stock Market Analysis Using Tableau: see [Stock Price Prediction](https://github.com/mypham14/stock-price-prediction) project above
+
 _**Power BI**_
 - Payment Cards Anomaly Detection Using Power BI
 
