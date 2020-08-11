@@ -25,7 +25,7 @@ _**Python**_
 
 _**Azure ML**_
 - [Stock Price Prediction Using ARIMA Time Series](https://gallery.azure.ai/Experiment/Stock-Price-Prediction-2): part of Stock Price Prediction, see full [project](https://github.com/mypham14/stock-price-prediction) above
-- [Income Classification Using Logistic Regression](https://gallery.azure.ai/Experiment/Income-Classification-Using-Logistic-Regression): model using Adult Census Income Data to predict whether a person earns more than $50,000/year or not based on Logistic Regression method.
+- [Income Classification Using Logistic Regression](https://gallery.azure.ai/Experiment/Income-Classification-Using-Logistic-Regression): model using Adult Census Income Data to predict whether a person earns more than $50,000/year or not based on 15 attributes with logistic regression method.
 
 #### 2. Natural Language Processing (NLP)
 _**Python**_
