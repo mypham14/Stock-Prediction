@@ -4,7 +4,7 @@ This is my [portfolio](https://github.com/mypham14/portfolio/) of all projects i
 
 ### Contents
 #### Data Science
-1. Stock Price Prediction
+1. [Stock Price Prediction](https://github.com/mypham14/stock-price-prediction): combination of regression models to predict stock prices of a portfolio for investors to make financial decisions
 - Modeling: Python
 - Data Visualization: [Tableau](https://tabsoft.co/2DxdiBV) 
 - Model Automation and Deployment: [Azure ML](https://bit.ly/3ksg24c)
