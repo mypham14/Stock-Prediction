@@ -20,9 +20,12 @@ _**Python**_
      - Create Tableau dashboards for data analysis and visualization 
      - Automate the modeling process and deploy the chosen model into production in Azure ML
 - Bike Rental Count Prediction
-- Income Classification 
 
 *Tools: pandas, numpy, matplotlib, seaborn, tensorflow, keras, beautifulsoup, requests, scikit-learn, statsmodels.tsa, mysql.connector*
+
+_**Azure ML**_
+- [Stock Price Prediction Using ARIMA Time Series](https://gallery.azure.ai/Experiment/Stock-Price-Prediction-2): part of Stock Price Prediction, see full [project](https://github.com/mypham14/stock-price-prediction) above
+- [Income Classification Using Logistic Regression](https://gallery.azure.ai/Experiment/Income-Classification-Using-Logistic-Regression): model using Adult Census Income Data to predict whether a person earns more than $50,000/year or not based on Logistic Regression method.
 
 #### 2. Natural Language Processing (NLP)
 _**Python**_
@@ -36,7 +39,7 @@ _**MySQL**_
 
 ### 3. Data Visualization
 _**Tableau**_
-- Stock Market Analysis Using Tableau: see [Stock Price Prediction](https://github.com/mypham14/stock-price-prediction) project above
+- [Stock Market Analysis Using Tableau](https://public.tableau.com/profile/my.tra.pham#!/vizhome/StockMarketAnalysisPortfolioFocused/StockMarketAnalysis): part of Stock Price Prediction, see full [project](https://github.com/mypham14/stock-price-prediction) above
 
 _**Power BI**_
 - Payment Cards Anomaly Detection Using Power BI
