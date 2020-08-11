@@ -33,18 +33,18 @@ _**Python**_
 #### 3. Data Analytics
 _**MySQL**_
 - Stock Market Analysis Using MySQL: see [Stock Price Prediction](https://github.com/mypham14/stock-price-prediction) project above
-- Google Analytics Customer Revenue Predictioin Using MySQL: an analysis of Google's visitor data to help Google develope plans to increase revenue by identifying trends of visitors' usage and behavior
+- Google Analytics Customer Revenue Prediction Using MySQL: an analysis of Google's visitor data to help Google develope plans to increase revenue by identifying trends of visitors' usage and behavior
 
 #### 4. Data Visualization
 _**Tableau**_
 - [Stock Market Analysis Using Tableau](https://public.tableau.com/profile/my.tra.pham#!/vizhome/StockMarketAnalysisPortfolioFocused/StockMarketAnalysis): part of Stock Price Prediction, see full [project](https://github.com/mypham14/stock-price-prediction) above
 
 _**Power BI**_
-- Payment Cards Anomaly Detection Using Power BI: an analysis of payment cards of a fictitious company using Power BI visualization to identify unusual transactions or suspicious activities, helping the accounts payable, accounts receivable and audit departments have appropriate internal controls in place to prevent potential fraud
+- [Payment Cards Anomaly Detection Using Power BI](https://github.com/mypham14/pcard-anomaly-detection): an analysis of payment cards of a fictitious company using Power BI visualization to identify unusual transactions or suspicious activities, helping the accounts payable, accounts receivable and audit departments have appropriate internal controls in place to prevent potential fraud
 
 ### Cybersecurity
 - Fraud Detection In Audit Using ACL, MS Excel, IDEA
 - Information Technology Security Policy Proposal For Venmo
 - Risk Management Policy Proposal For 
 - Fake News Detection: see Fake News Detection project above
-- Payment Cards Anomaly Detection Using Power BI
+- Payment Cards Anomaly Detection Using Power BI: see full [project](https://github.com/mypham14/pcard-anomaly-detection) above
