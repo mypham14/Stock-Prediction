@@ -26,7 +26,7 @@ _**Azure ML**_
 #### 2. Natural Language Processing (NLP)
 _**Python**_
 - [Unsupervised Learning - Yelp's Reviews Classification Using NLP Text Analytics](https://github.com/mypham14/yelp-review-nlp): an analysis of Yelp's reviews using NLP Text Analytics to classify whether a review is positive or negative, helping businesses determine areas of improvement and create strategic plans accordingly
-- Fake News Detection
+- [Fake News Detection](https://github.com/mypham14/fake-news-detection):  a filtering program using NLP Text Analytics to detect fake news tat negatively impacts businesses and stock market
 
 *Tools: pandas, numpy, matplotlib,
 
@@ -45,6 +45,6 @@ _**Power BI**_
 ### Cybersecurity
 - Fraud Detection In Audit Using ACL, MS Excel, IDEA
 - Information Technology Security Policy Proposal For Venmo
-- Risk Management Policy Proposal For 
+- Risk Management Policy Proposal  
 - Fake News Detection: see Fake News Detection project above
 - Payment Cards Anomaly Detection Using Power BI: see full [project](https://github.com/mypham14/pcard-anomaly-detection) above
