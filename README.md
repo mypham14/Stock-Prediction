@@ -46,5 +46,5 @@ _**Power BI**_
 - Fraud Detection Using Audit Technologies (ACL, MS Excel, IDEA)
 - Information Technology Security Policy Proposal For Venmo
 - Risk Management Policy Proposal  
-- Fake News Detection: see full [project](https://github.com/mypham14/fake-news-detection) above
-- Payment Cards Anomaly Detection Using Power BI: see full [project](https://github.com/mypham14/pcard-anomaly-detection) above
+- [Fake News Detection](https://github.com/mypham14/fake-news-detection): see full project above
+- [Payment Cards Anomaly Detection Using Power BI](https://github.com/mypham14/pcard-anomaly-detection): see full project above
