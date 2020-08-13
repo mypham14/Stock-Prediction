@@ -43,7 +43,7 @@ _**Power BI**_
 - [Payment Cards Anomaly Detection Using Power BI](https://github.com/mypham14/pcard-anomaly-detection): an analysis of payment cards of a fictitious company using Power BI visualization to identify unusual transactions or suspicious activities, helping the accounts payable, accounts receivable and audit departments have appropriate internal controls in place to prevent potential fraud
 
 ### Cybersecurity
-- Fraud Detection In Audit Using ACL, MS Excel, IDEA
+- Fraud Detection Using Audit Technologies (ACL, MS Excel, IDEA)
 - Information Technology Security Policy Proposal For Venmo
 - Risk Management Policy Proposal  
 - Fake News Detection: see full [project](https://github.com/mypham14/fake-news-detection) above
