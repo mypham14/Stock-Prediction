@@ -15,7 +15,7 @@ Please also visit my other portfolios for visualization and model automation pro
 _**Python**_
 - [Supervised Learning - Stock Price Prediction](https://github.com/mypham14/stock-price-prediction): a combination of regression models *(time series, regression machine learning, ensemble learning and deep learning)* to provide financial investors insights on a diversified portfolio of 6 companies representing 6 different industries and the S&P500 index and forecast stock prices of each company to investors make financial decisions based on the price movements
 - [Supervised Learning - Heart Disease Prediction](https://github.com/mypham14/heart-disease-prediction/blob/master/README.md): a mix of classification models *(ensemble learning, classification machine learning, principal component analysis and deep learning)* to provide hospitals a filtering system that helps patients identify and prevent potential predictors of having a heart disease 
-- Bike Rental Prediction
+- [Bike Rental Prediction](https://github.com/mypham14/bike-rental-prediction): a combination of regression models *(ensemble learning, classification machine learning, principal component analysis and deep learning)* to predict the demand for bike rental based on a number of attributes, projected to help the company effectively manage budgets and provide enough supply to meet the predicted demand
 
 *Tools: pandas, numpy, matplotlib, seaborn, tensorflow, keras, beautifulsoup, requests, scikit-learn, statsmodels.tsa, mysql.connector*
 
