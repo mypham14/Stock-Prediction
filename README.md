@@ -32,7 +32,7 @@ _**Python**_
 
 #### 3. Data Analytics
 _**MySQL**_
-- Stock Market Analysis Using MySQL: see [Stock Price Prediction](https://github.com/mypham14/stock-price-prediction) project above
+- [Stock Market Analysis Using MySQL](https://github.com/mypham14/stock-price-prediction): part of Stock Price Prediction, see full project above
 - [Google Analytics Customer Revenue Prediction Using MySQL](https://github.com/mypham14/customer-revenue-prediction-mysql): an analysis of Google's visitor data to help companies using this data develope plans to save marketing budgets and increase revenue by identifying trends of visitors' usage and behavior
 
 #### 4. Data Visualization
