@@ -28,7 +28,7 @@ _**Python**_
 - [Unsupervised Learning - Yelp's Reviews Classification Using NLP Text Analytics](https://github.com/mypham14/yelp-review-nlp): an analysis of Yelp's reviews using NLP Text Analytics to classify whether a review is positive or negative, helping businesses determine areas of improvement and create strategic plans accordingly
 - [Fake News Detection](https://github.com/mypham14/fake-news-detection):  a filtering program using NLP Text Analytics to detect fake news tat negatively impacts businesses and stock market
 
-*Tools: pandas, numpy, matplotlib,
+*Tools: pandas, numpy, matplotlib, nltk, matplotlib, seaborn, string, itertools, requests, Counter, Text, word_tokenize, sent_tokenize, regexp_tokenize, stopword, Dictionary, TfidfModel, scikit-learn, wordcloud 
 
 #### 3. Data Analytics
 _**MySQL**_
