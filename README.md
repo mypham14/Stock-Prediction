@@ -44,7 +44,7 @@ _**Power BI**_
 
 ### Cybersecurity
 - [Fraud Detection Using Audit Technologies (ACL, MS Excel, IDEA)](https://github.com/mypham14/fraud-detection-using-audit-software): audit programs to detect fraud using audit technologies (ACL, MS Excel, IDEA), projected to reduce audit process duration and costs and manage transactions more effectively
-- [Information Technology Security Policy Proposal For Venmo](https://github.com/mypham14/it-security-policy): Information technology security policy proposal For Venmo including vulnerability assessment, risk assessment, control analysis and recommendations to prevent cyber threats
+- [Information Technology Cyber Security Policy Proposal For Venmo](https://github.com/mypham14/it-security-policy): Information technology security policy proposal For Venmo including vulnerability assessment, risk assessment, control analysis and recommendations to prevent cyber threats
 - [Information Technology Audit Reports](https://github.com/mypham14/it-audit-reports): a IT policy report containing risk assessment, risk matrix and control recommendations to mitigate risk of fraud
 - [Fake News Detection](https://github.com/mypham14/fake-news-detection): see full project above
 - [Payment Cards Anomaly Detection Using Power BI](https://github.com/mypham14/pcard-anomaly-detection): see full project above
