@@ -42,6 +42,10 @@ _**Tableau**_
 _**Power BI**_
 - [**Payment Cards Anomaly Detection Using Power BI**](https://github.com/mypham14/pcard-anomaly-detection): an analysis of payment cards of a fictitious company using Power BI visualization to identify unusual transactions or suspicious activities, helping the accounts payable, accounts receivable and audit departments have appropriate internal controls in place to prevent potential fraud
 
+#### 5. Challenges
+_**Python**_
+- [**100 Days Of Code**](https://github.com/mypham14/100-days-of-code-python): Python projects from beginner level to advanced level in 100 days
+
 ### Cybersecurity
 - [**Fraud Detection Using Audit Technologies (ACL, MS Excel, IDEA)**](https://github.com/mypham14/fraud-detection-using-audit-software): audit programs to detect fraud using audit technologies (ACL, MS Excel, IDEA), projected to reduce audit process duration and costs and manage transactions more effectively
 - [**Information Technology Cyber Security Policy Proposal For Venmo**](https://github.com/mypham14/it-security-policy): Information technology security policy proposal For Venmo including vulnerability assessment, risk assessment, control analysis and recommendations to prevent cyber threats
